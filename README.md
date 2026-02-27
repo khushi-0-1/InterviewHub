@@ -1,6 +1,6 @@
-<h1 align="center">✨ Full-Stack Interview Platform ✨</h1>
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<h1 align="center">✨ InterviewHub ✨</h1>
+InterviewHub is a fully functional full-stack interview platform built for practicing real-time coding interviews.
+It is designed to simulate real technical interview environments with live collaboration and automated code evaluation.
 
 ✨ Highlights:
 
@@ -21,6 +21,35 @@
 - 🤖 CodeRabbit for PR Analysis & Code Optimization
 - 🧑‍💻 Git & GitHub Workflow (branches, PRs, merges)
 - 🚀 Deployment on Sevalla (free-tier friendly)
+
+---
+
+# 🛠️ Technology Stack
+
+## Frontend
+
+- React (Vite)
+- Tailwind CSS
+- Daisy UI
+- TanStack Query (data fetching & caching)
+
+## Backend
+
+- Node.js
+- Express.js
+- MongoDB
+
+## Real-Time Services
+
+- Stream (Video & Chat)
+
+## Background Jobs
+
+- Inngest (syncing data between Clerk, MongoDB & Stream)
+
+## AI Code Review
+
+- CodeRabbit
 
 ---
 
